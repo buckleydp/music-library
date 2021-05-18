@@ -1,7 +1,11 @@
-music-library
-A music library kata for Manchestser Codes.
+Music Library
+An app for managing a music library.
 
-Build status
+Learning Objectives:
+How to design and implement an API which can perform CRUD operations on a database.
 
-
-Code style
+Concepts:
+Database Design
+SQL
+MySQL
+CRUD Operations
